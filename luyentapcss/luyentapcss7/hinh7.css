@@ -1,0 +1,19 @@
+#myButton {
+    padding: 100px 100px;
+    font-size: 30px;
+    background-color:gray;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    text-align: center
+    
+    ;
+    
+  }
+  
+  #myButton:hover {
+    border: 20px solid blue ;
+    background-color:gray; 
+    color: white;
+  }
